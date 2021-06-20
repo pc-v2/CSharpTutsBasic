@@ -1,0 +1,12 @@
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\bin\Debug\net5.0\IntroLibrary.deps.json
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\bin\Debug\net5.0\IntroLibrary.dll
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\bin\Debug\net5.0\ref\IntroLibrary.dll
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\bin\Debug\net5.0\IntroLibrary.pdb
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\obj\Debug\net5.0\IntroLibrary.csproj.AssemblyReference.cache
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\obj\Debug\net5.0\IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\obj\Debug\net5.0\IntroLibrary.AssemblyInfoInputs.cache
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\obj\Debug\net5.0\IntroLibrary.AssemblyInfo.cs
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\obj\Debug\net5.0\IntroLibrary.csproj.CoreCompileInputs.cache
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\obj\Debug\net5.0\IntroLibrary.dll
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\obj\Debug\net5.0\ref\IntroLibrary.dll
+D:\Code\Belajar\CSharp\Intro\IntroLibrary\obj\Debug\net5.0\IntroLibrary.pdb
